@@ -1,0 +1,19 @@
+{
+  "name": "icarusbot-imgs",
+  "version": "1.0.0",
+  "description": "An icarus-bot plugin that accepts img uploads and then spits out a link in a chan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kid-icarus/icarusbot-imgs.git"
+  },
+  "author": "Ryan Kois",
+  "license": "FreeBSD",
+  "bugs": {
+    "url": "https://github.com/kid-icarus/icarusbot-imgs/issues"
+  },
+  "homepage": "https://github.com/kid-icarus/icarusbot-imgs"
+}
